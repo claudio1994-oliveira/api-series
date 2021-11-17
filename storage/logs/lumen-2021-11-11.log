@@ -1,0 +1,23 @@
+[2021-11-11 18:17:22] local.ERROR: Too few arguments to function Laravel\Lumen\Routing\Router::group(), 1 passed in C:\Users\claud\OneDrive\Documentos\Alura PHP\api-series\routes\web.php on line 24 and exactly 2 expected {"exception":"[object] (ArgumentCountError(code: 0): Too few arguments to function Laravel\\Lumen\\Routing\\Router::group(), 1 passed in C:\\Users\\claud\\OneDrive\\Documentos\\Alura PHP\\api-series\outes\\web.php on line 24 and exactly 2 expected at C:\\Users\\claud\\OneDrive\\Documentos\\Alura PHP\\api-series\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php:54)
+[stacktrace]
+#0 C:\\Users\\claud\\OneDrive\\Documentos\\Alura PHP\\api-series\outes\\web.php(24): Laravel\\Lumen\\Routing\\Router->group()
+#1 C:\\Users\\claud\\OneDrive\\Documentos\\Alura PHP\\api-series\\bootstrap\\app.php(112): require('...')
+#2 C:\\Users\\claud\\OneDrive\\Documentos\\Alura PHP\\api-series\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}()
+#3 C:\\Users\\claud\\OneDrive\\Documentos\\Alura PHP\\api-series\\bootstrap\\app.php(113): Laravel\\Lumen\\Routing\\Router->group()
+#4 C:\\Users\\claud\\OneDrive\\Documentos\\Alura PHP\\api-series\\public\\index.php(14): require('...')
+#5 {main}
+"} 
+[2021-11-11 18:18:13] local.ERROR: Unclosed '(' on line 22 does not match ']' {"exception":"[object] (ParseError(code: 0): Unclosed '(' on line 22 does not match ']' at C:\\Users\\claud\\OneDrive\\Documentos\\Alura PHP\\api-series\outes\\web.php:24)
+[stacktrace]
+#0 C:\\Users\\claud\\OneDrive\\Documentos\\Alura PHP\\api-series\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}()
+#1 C:\\Users\\claud\\OneDrive\\Documentos\\Alura PHP\\api-series\\bootstrap\\app.php(113): Laravel\\Lumen\\Routing\\Router->group()
+#2 C:\\Users\\claud\\OneDrive\\Documentos\\Alura PHP\\api-series\\public\\index.php(14): require('...')
+#3 {main}
+"} 
+[2021-11-11 18:18:18] local.ERROR: Unclosed '(' on line 22 does not match ']' {"exception":"[object] (ParseError(code: 0): Unclosed '(' on line 22 does not match ']' at C:\\Users\\claud\\OneDrive\\Documentos\\Alura PHP\\api-series\outes\\web.php:24)
+[stacktrace]
+#0 C:\\Users\\claud\\OneDrive\\Documentos\\Alura PHP\\api-series\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}()
+#1 C:\\Users\\claud\\OneDrive\\Documentos\\Alura PHP\\api-series\\bootstrap\\app.php(113): Laravel\\Lumen\\Routing\\Router->group()
+#2 C:\\Users\\claud\\OneDrive\\Documentos\\Alura PHP\\api-series\\public\\index.php(14): require('...')
+#3 {main}
+"} 
